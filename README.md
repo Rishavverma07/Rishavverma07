@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a1128,50:1e3a8a,100:38bdf8&height=230&section=header&text=Rishav%20Verma&fontSize=64&fontColor=e0f2fe&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20DSA%20in%20C%2B%2B&descSize=20&descAlignY=62&descColor=bae6fd&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:38bdf8,100:93c5fd&height=260&section=header&text=Rishav%20Verma&fontSize=70&fontColor=0a1128&fontAlignY=40&desc=MERN%20Stack%20Developer&descSize=26&descAlignY=62&descColor=0a1128" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Clean+UI+%2B+Smooth+UX+%2B+Working+Products;Building+scalable+MERN+applications;Solving+DSA+problems+in+C%2B%2B;Open+to+internships+%26+collabs" alt="Typing SVG" />
 
